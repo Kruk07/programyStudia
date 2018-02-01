@@ -1,0 +1,11 @@
+13
+insert 19
+insert 3
+insert 50
+insert 11
+insert 81
+inorder
+delete 19
+inorder
+
+

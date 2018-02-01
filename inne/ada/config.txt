@@ -1,0 +1,4 @@
+Tryb_dzialania: G
+Tempo_symulacji: 20
+Poczatkowa_godzina: 23
+Poczatkowa_minuta: 45

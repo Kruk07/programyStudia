@@ -1,0 +1,48 @@
+$date
+  Mon Jun 19 21:11:46 2017
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! add $end
+$var reg 1 " subt $end
+$var reg 9 # first[8:0] $end
+$var reg 9 $ second[8:0] $end
+$var reg 9 % result[8:0] $end
+$scope module uut $end
+$var reg 1 & add $end
+$var reg 1 ' subt $end
+$var reg 9 ( first[8:0] $end
+$var reg 9 ) second[8:0] $end
+$var reg 9 * result[8:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+bUUUUUUUUU #
+bUUUUUUUUU $
+bUUUUUUUUU %
+0&
+0'
+bUUUUUUUUU (
+bUUUUUUUUU )
+bUUUUUUUUU *
+#100000000
+1!
+b000000001 #
+b000000010 $
+b000000011 %
+1&
+b000000001 (
+b000000010 )
+b000000011 *
+#200000000
+1"
+b111111111 %
+1'
+b111111111 *
+#300000000
